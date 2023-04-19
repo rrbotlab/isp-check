@@ -1,0 +1,45 @@
+body {
+  background-color: #2a2e39;
+  color: #fff;
+}
+
+.logo {
+  /* background-image: url('/images/brand.gif'); */
+  background-repeat: no-repeat;
+  background-size: 336px 42px;
+  min-width: 336px;
+  height: 42px;
+  background-position: 50% center;
+  /*left: calc(50% - 117px);*/
+  padding: 35px 0px;
+  display: none;
+}
+
+.container {
+  max-width: 340px;
+  padding: 0;
+}
+
+.c {
+  text-align: center;
+}
+
+.l {
+  text-align: left;
+}
+
+.r {
+  text-align: right;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+}
+
+header {
+  background-color: rgb(6, 110, 228);
+  margin: 10px 0;
+  color: white;
+  text-align: center;
+}
